@@ -1,0 +1,1 @@
+eel.say_hello("Javascript!");
